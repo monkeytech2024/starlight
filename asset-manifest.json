@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/starlight/static/css/main.bbb1e845.css",
-    "main.js": "/starlight/static/js/main.a1c7a397.js",
+    "main.js": "/starlight/static/js/main.14ed9aa4.js",
     "static/js/453.b44614b6.chunk.js": "/starlight/static/js/453.b44614b6.chunk.js",
     "static/media/banner1.png": "/starlight/static/media/banner1.f27793f9f2a58c68cede.png",
     "static/media/SupportUs.jpg": "/starlight/static/media/SupportUs.1a2ec22f0cb1bd0867cd.jpg",
@@ -12,11 +12,11 @@
     "index.html": "/starlight/index.html",
     "static/media/getFetch.cjs": "/starlight/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.bbb1e845.css.map": "/starlight/static/css/main.bbb1e845.css.map",
-    "main.a1c7a397.js.map": "/starlight/static/js/main.a1c7a397.js.map",
+    "main.14ed9aa4.js.map": "/starlight/static/js/main.14ed9aa4.js.map",
     "453.b44614b6.chunk.js.map": "/starlight/static/js/453.b44614b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbb1e845.css",
-    "static/js/main.a1c7a397.js"
+    "static/js/main.14ed9aa4.js"
   ]
 }
